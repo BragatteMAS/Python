@@ -1,0 +1,5 @@
+alg = int(input('Número:'))
+do = int(alg * 2)
+tri = int(alg * 3)
+raiz = int(alg // 2)
+print(f'Número escolhido foi: {alg}, \n dobro = {do}, \n triplo = {tri} e \n raiz = {raiz}.')
