@@ -1,0 +1,5 @@
+pro = float(input('O preço do produto em reais é:'))
+des = float(input('Percentual de desconto é:'))
+cal = float(des * pro / 100)
+np = float(pro - cal)
+print(f'O valor do produto com desconto em reais é {np}')

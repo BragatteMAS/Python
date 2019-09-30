@@ -1,0 +1,5 @@
+lar = float(input('Qual a largura da parede em metros?'))
+alt = float(input('Qual a altura da parede em metros?'))
+area = float(lar * alt)
+tinta = float(area / 2)
+print(f'Você precisará de {tinta} litros de tinta para pintar a parede com uma área de {area} metros!')
