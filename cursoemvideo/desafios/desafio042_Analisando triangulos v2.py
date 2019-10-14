@@ -1,0 +1,1 @@
+echo -e "\n Auto install Bragatte_mode!!!!"echo -e "\n Auto install Bragatte_mode!!!!"
