@@ -4,6 +4,9 @@ Methods and courses to learn python language.
 
 ## Google Colab codes
  * Most of examples from Medium
+ 
+## How_to codes
+ * Scripts for different actions
 
 ## Curso em Vídeo
   * Excellent youtube channel
