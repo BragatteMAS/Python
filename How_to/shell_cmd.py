@@ -1,10 +1,8 @@
-#Testing shell commands from Python by Zwaan / debug or refactor by Bragatte#
+#Testing shell commands from Python by Zwaan / refactor by Bragatte#
 <https://blog.esciencecenter.nl/testing-shell-commands-from-python-2a2ec87ebf71>
 
 import sh
 sh.python(['setup.py', 'install'])
-
-###
 
 import pytest
 import os
@@ -29,5 +27,3 @@ def test_install(cookies):
   finally:
     # always change directories to the test directory
     os.chdir(cwd)
-    
-###
