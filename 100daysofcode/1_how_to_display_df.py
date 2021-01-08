@@ -1,6 +1,7 @@
 '''
-100daysofcode - "How to"
- create: 202101051654 @bragatte
+100daysofcode
+"How to display all columns pandas"
+create by  @bragatte ^202101051654 
 Day 1
 [Ref](https://towardsdatascience.com/10-python-skills-419e5e4c4d66)
 '''
