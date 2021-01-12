@@ -1,3 +1,12 @@
+
+'''
+100daysofcode
+"How to display change Image_size"
+Refactor by  @bragatte ^202101112355 
+Day 3
+[Ref]()
+'''
+
 import os
 from PIL import Image
 
