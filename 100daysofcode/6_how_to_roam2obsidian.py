@@ -1,3 +1,10 @@
+'''
+100daysofcode
+"How to transfer Roam to Obsidian"
+create by  @bragatte ^202101152345 
+Day 6
+[Ref](https://towardsdatascience.com/10-python-skills-419e5e4c4d66)
+'''
 #Ref:https://gist.github.com/jenningsb2/2d94bc286b5fafe878c9e493a0286298
 
 import re
