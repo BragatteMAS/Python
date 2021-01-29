@@ -5,6 +5,7 @@ create by  @bragatte ^202101051654
 Day 1
 [Ref](https://towardsdatascience.com/10-python-skills-419e5e4c4d66)
 '''
+
 import pandas as pd
 import requests
 
