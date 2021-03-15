@@ -13,3 +13,5 @@ Methods and courses to learn python language.
   https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ
   
  Inside the folder 'desafio',  all my codes praticing python with the url for the class from the course.
+ 
+ P.S. If any of codes display the notebook copy the URL and paste at https://nbviewer.jupyter.org/.
