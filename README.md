@@ -7,9 +7,7 @@ Methods and courses to learn python language.
 
 ## How_to codes
  * Scripts for different actions
- 
-## Google Colab codes
- * Most of examples from Medium
+ * Many examples reply || refactor from Medium
 
 ## Curso em Vídeo
   * Excellent youtube channel in portuguese
