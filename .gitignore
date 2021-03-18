@@ -1,2 +1,5 @@
+touch ~/.gitignore
+git config --global core.excludeFiles ~/.gitignore
+
 * .ipynb_checkpoints
 * .vscode 
