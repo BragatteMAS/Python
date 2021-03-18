@@ -1,9 +1,7 @@
 # -*- coding: utf-8 -*-
 '''
-100daysofcode
 "How to display change Statistical_test"
 Refactor by  @bragatte ^202101112355 
-Day 4
 [Ref]()
 '''
 
