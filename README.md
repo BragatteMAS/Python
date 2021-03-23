@@ -2,8 +2,8 @@
 
 Methods and courses to learn python language.
 
- ## Py.S.
-  If any code at Github do not display the notebook copy the URL and paste at https://nbviewer.jupyter.org/
+ ## P.S. or Py.s
+  If any code at Github do not display the notebook copy the URL and paste at ^^**https://nbviewer.jupyter.org/**^^
 
 ## How_to codes
  * Scripts for different actions
