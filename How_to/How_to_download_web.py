@@ -1,5 +1,6 @@
-#Ref.:https://www.geeksforgeeks.org/downloading-files-web-using-python/
-#test2
+# Download database from Crosstope
+# REFactor @Bragatte 
+
 from os import link
 import requests, os
 #from os import link
@@ -13,7 +14,7 @@ def get_images_link():
     #find all links on web-page
     links = soup.findAll('a') 
     # filter the link sending with .jpg 
-    image_links = [url + link['href'] for link in links if link['href'].endswith('jpg')] 
+    image_links = [url + link['href'] for link in links if link['href'].endswith('jpg')] #or pdb 
 
     return image_links
 print(link)
@@ -46,8 +47,8 @@ def download_image_links(url):
  
 if __name__ == "__main__":
     #BASE_URL
-    #url= 'http://www.crosstope.com/uploads/Imagens_GRASP/V5/'
-    url = 'http://www-personal.umich.edu/~csev/books/py4inf/media/'
+    url= 'http://www.crosstope.com/uploads/Imagens_GRASP/V5/' #img 
+    #url = 'http://www.crosstope.com/uploads/Complexos/' #pdb
     OUTPUT_DIR = 'all_images'
 
     # getting all image links 
