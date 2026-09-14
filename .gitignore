@@ -6,3 +6,6 @@ git config --global core.excludeFiles ~/.gitignore
 
 *.ipynb_checkpoints
 *.vscode 
+
+# macOS Finder metadata (local only)
+.DS_Store
